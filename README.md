@@ -88,6 +88,7 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 12. [A Bayesian Approach for Estimating Causal Effects from Observational Data](https://researchportal.helsinki.fi/en/publications/a-bayesian-approach-for-estimating-causal-effects-from-observatio)
 13. [Bayesian Nonpar esian Nonparametric Methods F ametric Methods For Causal Inf or Causal Inference And ence And Prediction](https://repository.upenn.edu/cgi/viewcontent.cgi?article=4779&context=edissertations)
 14. [Is Microfinance Truly Useless for Poverty Reduction and Women Empowerment? A Bayesian Spatial-Propensity Score Matching Evaluation in Bolivia](https://www.semanticscholar.org/paper/Is-Microfinance-Truly-Useless-for-Poverty-Reduction-Gonzales-Aranda/20fb2e5660560351a011753a6cff01ee9cde3775)
+15. [Bayesian regression tree models for causal inference: regularization, confounding, and heterogeneous effects](https://arxiv.org/pdf/1706.09523.pdf)
 
 ## People
 1. [Andreas Krause, Professor of Computer Science, ETH Zurich](https://scholar.google.com/citations?hl=en&user=eDHv58AAAAAJ)
