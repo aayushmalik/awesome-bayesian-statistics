@@ -19,3 +19,13 @@ This is a repository that I created while learning Bayesian Statistics. It conta
 14. [Bayesian Econometrics, Gary Koop (2003)](https://www.wiley.com/en-us/Bayesian+Econometrics-p-9780470845677)
 15. [Regression Modelling with Spatial and Spatial-Temporal Data: A Bayesian Approach, Robert P. Haining (2019)](https://www.routledge.com/Modelling-Spatial-and-Spatial-Temporal-Data-A-Bayesian-Approach/Haining-Li/p/book/9781482237429)
 16. [Bayesian Reasoning and Machine Learning, David Barber (2012)](https://www.amazon.in/Bayesian-Reasoning-Machine-Learning-Barber/dp/0521518148)
+
+## Courses
+1. [Bayesian Statistics: From Concept to Data Analysis, University of California Santa Cruz](https://www.coursera.org/learn/bayesian-statistics)
+2. [Bayesian Methods for Machine Learning, HSE University](https://www.coursera.org/learn/bayesian-methods-in-machine-learning)
+3. [Introduction to Bayesian Analysis Course with Python 2021, Udemy](https://www.udemy.com/course/introduction-to-bayesian-analysis-course-with-python-2021/)
+4. [Bayesian Machine Learning in Python: A/B Testing, Udemy](https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing/)
+5. [A Comprehensive Guide to Bayesian Statistics, Udemy](https://www.udemy.com/course/bayesian-statistics-w/)
+6. [Statistical Rethinking, Max Planck Institute for Evolutionary Anthropology, Leipzig](https://www.youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc)
+7. [Bayesian Statistics for the Social Science, Benjamin Goodrich, Columbia University New York](https://www.youtube.com/playlist?list=PLSZp9QshJ8wyPCgoQR0Kw3HDNuy1FEZH9)
+8. [Bayesian Data Analysis in Python, Datacamp](https://www.datacamp.com/courses/bayesian-data-analysis-in-python)
