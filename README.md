@@ -72,6 +72,7 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 20. [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 21. [How would you explain Markov Chain Monte Carlo (MCMC) to a layperson?](https://stats.stackexchange.com/questions/165/how-would-you-explain-markov-chain-monte-carlo-mcmc-to-a-layperson)
 22. [Markov Chain Monte Carlo in Practice](https://betanalpha.github.io/assets/case_studies/markov_chain_monte_carlo.html)
+23. [Causal Bayesian Networks: A flexible tool to enable fairer machine learning](https://deepmind.com/blog/article/Causal_Bayesian_Networks)
 
 ## Research Papers
 1. [Primer on the Use of Bayesian Methods in Health Economics](https://www.sciencedirect.com/science/article/pii/B9780123756787007082)
@@ -89,6 +90,7 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 13. [Bayesian Nonpar esian Nonparametric Methods F ametric Methods For Causal Inf or Causal Inference And ence And Prediction](https://repository.upenn.edu/cgi/viewcontent.cgi?article=4779&context=edissertations)
 14. [Is Microfinance Truly Useless for Poverty Reduction and Women Empowerment? A Bayesian Spatial-Propensity Score Matching Evaluation in Bolivia](https://www.semanticscholar.org/paper/Is-Microfinance-Truly-Useless-for-Poverty-Reduction-Gonzales-Aranda/20fb2e5660560351a011753a6cff01ee9cde3775)
 15. [Bayesian regression tree models for causal inference: regularization, confounding, and heterogeneous effects](https://arxiv.org/pdf/1706.09523.pdf)
+16. [State-of-the-BART: Simple Bayesian Tree Algorithms for Prediction and Causal Inference](https://eoghanoneillcom.files.wordpress.com/2020/09/bayesian_tree_paper_eon_18_07_20-1.pdf)
 
 ## People
 1. [Andreas Krause, Professor of Computer Science, ETH Zurich](https://scholar.google.com/citations?hl=en&user=eDHv58AAAAAJ)
