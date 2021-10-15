@@ -47,9 +47,17 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 7. [Bayesian Statistics and Functional Programming](https://jonnylaw.rocks/)
 8. [Learning Bayesian Statistics](https://www.learnbayesstats.com/)
 
-## Articles
+## Web Articles
 1. [Absolutely the simplest introduction to Bayesian statistics](http://statisticalbiophysicsblog.org/?p=233)
 2. [My Journey From Frequentist to Bayesian Statistics](https://www.fharrell.com/post/journey/)
 3. [Frequentist vs. Bayesian approach in A/B testing](https://www.dynamicyield.com/lesson/bayesian-testing/)
 4. [Bayesian vs. Frequentist A/B Testing: What’s the Difference?](https://cxl.com/blog/bayesian-frequentist-ab-testing/)
 5. [Bayesian inference tutorial: a hello world example](https://datapythonista.me/blog/bayesian-inference-tutorial-a-hello-world-example.html)
+6. [Nonparametric Bayesian Statistics](https://stat.mit.edu/research/nonparametric-bayesian-statistics/)
+7. [A Guide to Bayesian Statistics](https://www.countbayesie.com/blog/2016/5/1/a-guide-to-bayesian-statistics)
+8. [Bayesian Priors for Parameter Estimation](https://www.countbayesie.com/blog/2015/4/4/parameter-estimation-adding-bayesian-priors)
+
+## Research Papers
+1. [Primer on the Use of Bayesian Methods in Health Economics](https://www.sciencedirect.com/science/article/pii/B9780123756787007082)
+2. [Experimental Design: Bayesian Designs](https://www.sciencedirect.com/science/article/pii/B0080430767004216)
+3. 
