@@ -56,8 +56,8 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 6. [Nonparametric Bayesian Statistics](https://stat.mit.edu/research/nonparametric-bayesian-statistics/)
 7. [A Guide to Bayesian Statistics](https://www.countbayesie.com/blog/2016/5/1/a-guide-to-bayesian-statistics)
 8. [Bayesian Priors for Parameter Estimation](https://www.countbayesie.com/blog/2015/4/4/parameter-estimation-adding-bayesian-priors)
+9. [Bayesian Statistics Wikipedia](https://en.wikipedia.org/wiki/Bayesian_statistics)
 
 ## Research Papers
 1. [Primer on the Use of Bayesian Methods in Health Economics](https://www.sciencedirect.com/science/article/pii/B9780123756787007082)
 2. [Experimental Design: Bayesian Designs](https://www.sciencedirect.com/science/article/pii/B0080430767004216)
-3. 
