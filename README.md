@@ -3,10 +3,10 @@
 This is a repository that I created while learning Bayesian Statistics. It contains links to resources such as books, articles, magazines, research papers, and influential people in the domain of Bayesian Statistics. It will be helpful for beginners who want a one-stop access to all the resources at one place.
 
 ## Books
-1. Bayesian Data Analysis, Donald Rubin (1995)
-2. Bayesian Statistics for Beginners: A Step-by-Step Approach, Therese M. Donovan (2019)
-3. Doing Bayesian Data Analysis: A Tutorial Introduction with R, John Kruschke (2010)
-4. Introduction to Bayesian Statistics, William M. Bolstad (2004)
+1. Bayesian Statistics for Beginners: A Step-by-Step Approach, Therese M. Donovan (2019)
+2. Doing Bayesian Data Analysis: A Tutorial Introduction with R, John Kruschke (2010)
+3. Introduction to Bayesian Statistics, William M. Bolstad (2004)
+4. Bayesian Data Analysis, Donald Rubin (1995)
 5. Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks, Will Kurt (2019)
 6. A First Course in Bayesian Statistical Methods, Peter D Hoff (2009)
 7. Think Bayes: Bayesian Statistics in Python, Allen B. Downey (2012)
