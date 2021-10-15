@@ -68,10 +68,21 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 16. [Bayes Theorem: A Framework for Critical Thinking](https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html)
 17. [Why testing positive for a disease may not mean you are sick. Visualization of the Bayes Theorem and Conditional Probability](https://medium.com/@javiergb_com/why-testing-positive-for-a-disease-may-not-mean-you-are-sick-4a3a16a290eb)
 18. [How To Use Bayes's Theorem In Real Life](https://obscuredinosaurfacts.com/blog/post/2021/01/27/bayes.html)
+19. [A Gentle Introduction to Markov Chain Monte Carlo for Probability](https://machinelearningmastery.com/markov-chain-monte-carlo-for-probability/)
+20. [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+21. [How would you explain Markov Chain Monte Carlo (MCMC) to a layperson?](https://stats.stackexchange.com/questions/165/how-would-you-explain-markov-chain-monte-carlo-mcmc-to-a-layperson)
+22. [Markov Chain Monte Carlo in Practice](https://betanalpha.github.io/assets/case_studies/markov_chain_monte_carlo.html)
 
 ## Research Papers
 1. [Primer on the Use of Bayesian Methods in Health Economics](https://www.sciencedirect.com/science/article/pii/B9780123756787007082)
 2. [Experimental Design: Bayesian Designs](https://www.sciencedirect.com/science/article/pii/B0080430767004216)
+3. [A simple introduction to Markov Chain Monte-Carlo sampling](https://link.springer.com/article/10.3758/s13423-016-1015-8)
+4. [Markov Chain Monte Carlo: an introduction for epidemiologists](https://academic.oup.com/ije/article/42/2/627/738896)
+5. [Monte Carlo simulation of climate systems](https://www.sciencedirect.com/science/article/pii/B978012818703600012X)
+6. [What Are Hierarchical Models and How Do We Analyze Them?](https://www.sciencedirect.com/science/article/pii/B9780128013786000023)
+7. [A Conceptual Introduction to Markov Chain Monte Carlo Methods](https://arxiv.org/pdf/1909.12313.pdf)
+8. [Data Analysis Recipes: Using Markov Chain Monte Carlo](https://iopscience.iop.org/article/10.3847/1538-4365/aab76e)
+9. [A survey of Monte Carlo methods for parameter estimation](https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-020-00675-6)
 
 ## People
 1. [Andreas Krause, Professor of Computer Science, ETH Zurich](https://scholar.google.com/citations?hl=en&user=eDHv58AAAAAJ)
