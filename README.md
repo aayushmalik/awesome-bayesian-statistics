@@ -57,6 +57,15 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 7. [A Guide to Bayesian Statistics](https://www.countbayesie.com/blog/2016/5/1/a-guide-to-bayesian-statistics)
 8. [Bayesian Priors for Parameter Estimation](https://www.countbayesie.com/blog/2015/4/4/parameter-estimation-adding-bayesian-priors)
 9. [Bayesian Statistics Wikipedia](https://en.wikipedia.org/wiki/Bayesian_statistics)
+10. [Bayes’ Theorem: the maths tool we probably use every day, but what is it?](https://theconversation.com/bayes-theorem-the-maths-tool-we-probably-use-every-day-but-what-is-it-76140)
+11. [Develop an Intuition for Bayes Theorem With Worked Examples](https://machinelearningmastery.com/intuition-for-bayes-theorem-with-worked-examples/)
+12. [Bayes Theorem, mathisfun.com](https://www.mathsisfun.com/data/bayes-theorem.html)
+13. [Is Bayes' Theorem really that interesting?](https://math.stackexchange.com/questions/4002082/is-bayes-theorem-really-that-interesting)
+14. [Understand Bayes’ Theorem Through Visualization](https://towardsai.net/p/l/understand-bayes-theorem-through-visualization)
+15. [Bayes's Theorem: What's the Big Deal?](https://blogs.scientificamerican.com/cross-check/bayes-s-theorem-what-s-the-big-deal/)
+16. [Bayes Theorem: A Framework for Critical Thinking](https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html)
+17. [Why testing positive for a disease may not mean you are sick. Visualization of the Bayes Theorem and Conditional Probability](https://medium.com/@javiergb_com/why-testing-positive-for-a-disease-may-not-mean-you-are-sick-4a3a16a290eb)
+18. [How To Use Bayes's Theorem In Real Life](https://obscuredinosaurfacts.com/blog/post/2021/01/27/bayes.html)
 
 ## Research Papers
 1. [Primer on the Use of Bayesian Methods in Health Economics](https://www.sciencedirect.com/science/article/pii/B9780123756787007082)
