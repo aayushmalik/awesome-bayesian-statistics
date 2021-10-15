@@ -70,3 +70,23 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 ## Research Papers
 1. [Primer on the Use of Bayesian Methods in Health Economics](https://www.sciencedirect.com/science/article/pii/B9780123756787007082)
 2. [Experimental Design: Bayesian Designs](https://www.sciencedirect.com/science/article/pii/B0080430767004216)
+
+## People
+1. [Andreas Krause, Professor of Computer Science, ETH Zurich](https://scholar.google.com/citations?hl=en&user=eDHv58AAAAAJ)
+2. [Svetha Venkatesh, Professor of Computer Science, Deakin University](https://scholar.google.com/citations?hl=en&user=AEkRUQcAAAAJ)
+3. [Juergen Branke, Professor of Operational Research and Systems, Warwick Business School](https://scholar.google.com/citations?hl=en&user=9TJqwIUAAAAJ)
+4. [Michael A Osborne, Professor of Machine Learning, University of Oxford](https://scholar.google.com/citations?hl=en&user=iTNcAakAAAAJ)
+5. [Matthias Seeger, Principal Applied Scientist, Amazon](https://scholar.google.com/citations?hl=en&user=V-lc8A8AAAAJ)
+6. [Eytan Bakshy, Research Director, Facebook](https://scholar.google.com/citations?hl=en&user=8y9rrq0AAAAJ)
+7. [Aaron Klein, AWS Research Berlin](https://scholar.google.com/citations?hl=en&user=usl__skAAAAJ)
+8. [David Ginsbourger,University of Bern](https://scholar.google.com/citations?hl=en&user=qfSOpvUAAAAJ)
+9. [Jonathan Marchini, Head of Statistical Genetics and Methods, Regeneron Genetics Center](https://scholar.google.com/citations?hl=en&user=YdS6szoAAAAJ)
+10. [Kyle Foreman, University of Washington](https://scholar.google.com/citations?hl=en&user=kBS0BLIAAAAJ)
+11. [Adrian E. Raftery, Professor of Statistics and Sociology, University of Washington](https://scholar.google.com/citations?hl=en&user=QN9RQAYAAAAJ)
+12. [Zoubin Ghahramani, Professor, University of Cambridge, and Distinguished Researcher, Google](https://scholar.google.com/citations?hl=en&user=0uTu7fYAAAAJ)
+13. [Jun S Liu, Professor of statistics, Harvard University](https://scholar.google.com/citations?hl=en&user=-bHzVq8AAAAJ)
+14. [David Dunson, Arts & Sciences Professor of Statistical Science & Mathematics, Duke](https://scholar.google.com/citations?hl=en&user=KwEOawwAAAAJ)
+15. [Giovanni Parmigiani, Professor Department of Data Science, DFCI](https://scholar.google.com/citations?hl=en&user=OlpYP3UAAAAJ)
+16. [Aki Vehtari, Associate Professor, Aalto University](https://scholar.google.com/citations?hl=en&user=tYgN0GsAAAAJ)
+17. [Chiara Sabatti, Professor of Biomedical Data Science and of Statistics, Stanford University](https://scholar.google.com/citations?hl=en&user=P2VyO-YAAAAJ)
+18. [Peter E Rossi, James Collins Professor of Economics, Marketing, and Statistics, UCLA](https://scholar.google.com/citations?hl=en&user=MoQr4lQAAAAJ)
