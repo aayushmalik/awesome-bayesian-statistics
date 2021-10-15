@@ -1,4 +1,4 @@
-# Bayesian Statistics
+# Awesome Bayesian Statistics
 
 This is a repository that I created while learning Bayesian Statistics. It contains links to resources such as books, articles, magazines, research papers, and influential people in the domain of Bayesian Statistics. It will be helpful for beginners who want a one-stop access to all the resources at one place.
 
