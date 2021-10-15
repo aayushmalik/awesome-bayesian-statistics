@@ -36,6 +36,8 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 1. [MATH 574 Bayesian Computational Statistics, Illinois Tech](https://www.iit.edu/sites/default/files/2019-11/syllabus-math-574_fa15.pdf)
 2. [STAT 695 - Bayesian Data Analysis, Purdue University](https://www.stat.purdue.edu/~sabbaghi/teaching/STAT%20695%20Syllabus%202017.pdf)
 3. [STA360/601 - Bayesian Inference and Modern Statistical Methods, Duke University](https://github.com/zhangry868/Bayesian-Statistics)
+4. [STAT 625: Advanced Bayesian Inference, Rice](http://meng.rice.edu/teaching/stat625/)
+5. [MSH3 - Advanced Bayesian Inference, University of Sydney](https://www.maths.usyd.edu.au/u/jormerod/BayesNotes/BayesNotes1.pdf)
 
 ## Blogs
 1. [Count Bayesie by Will Kurt](https://www.countbayesie.com/)
