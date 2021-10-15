@@ -29,3 +29,8 @@ This is a repository that I created while learning Bayesian Statistics. It conta
 6. [Statistical Rethinking, Max Planck Institute for Evolutionary Anthropology, Leipzig](https://www.youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc)
 7. [Bayesian Statistics for the Social Science, Benjamin Goodrich, Columbia University New York](https://www.youtube.com/playlist?list=PLSZp9QshJ8wyPCgoQR0Kw3HDNuy1FEZH9)
 8. [Bayesian Data Analysis in Python, Datacamp](https://www.datacamp.com/courses/bayesian-data-analysis-in-python)
+
+## Curriculum and Syllabus
+1. [MATH 574 Bayesian Computational Statistics, Illinois Tech](https://www.iit.edu/sites/default/files/2019-11/syllabus-math-574_fa15.pdf)
+2. [STAT 695 - Bayesian Data Analysis, Purdue University](https://www.stat.purdue.edu/~sabbaghi/teaching/STAT%20695%20Syllabus%202017.pdf)
+3. [STA360/601 - Bayesian Inference and Modern Statistical Methods, Duke University](https://github.com/zhangry868/Bayesian-Statistics)
