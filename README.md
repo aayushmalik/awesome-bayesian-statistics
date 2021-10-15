@@ -2,6 +2,8 @@
 
 This is a repository that I created while learning Bayesian Statistics. It contains links to resources such as books, articles, magazines, research papers, and influential people in the domain of Bayesian Statistics. It will be helpful for beginners who want a one-stop access to all the resources at one place.
 
+It is a collaborative work, so feel free to pull and add content to this. This way, we will be able to make it more community-driven.
+
 ## Books
 1. [Bayesian Statistics for Beginners: A Step-by-Step Approach, Therese M. Donovan (2019)](https://www.amazon.in/Bayesian-Statistics-Beginners-step-step/dp/0198841299)
 2. [Doing Bayesian Data Analysis: A Tutorial Introduction with R, John Kruschke (2010)](https://jkkweb.sitehost.iu.edu/DoingBayesianDataAnalysis/)
@@ -34,3 +36,20 @@ This is a repository that I created while learning Bayesian Statistics. It conta
 1. [MATH 574 Bayesian Computational Statistics, Illinois Tech](https://www.iit.edu/sites/default/files/2019-11/syllabus-math-574_fa15.pdf)
 2. [STAT 695 - Bayesian Data Analysis, Purdue University](https://www.stat.purdue.edu/~sabbaghi/teaching/STAT%20695%20Syllabus%202017.pdf)
 3. [STA360/601 - Bayesian Inference and Modern Statistical Methods, Duke University](https://github.com/zhangry868/Bayesian-Statistics)
+
+## Blogs
+1. [Count Bayesie by Will Kurt](https://www.countbayesie.com/)
+2. [Evan Miller](https://www.evanmiller.org/)
+3. [Healthy Algorithms](https://healthyalgorithms.com/)
+4. [Allen Downey](https://www.allendowney.com/blog/)
+5. [Statistics Biophysics Blog](https://statisticalbiophysicsblog.org/)
+6. [Statistical Thinking by Frank Harrell](https://www.fharrell.com/)
+7. [Bayesian Statistics and Functional Programming](https://jonnylaw.rocks/)
+8. [Learning Bayesian Statistics](https://www.learnbayesstats.com/)
+
+## Articles
+1. [Absolutely the simplest introduction to Bayesian statistics](http://statisticalbiophysicsblog.org/?p=233)
+2. [My Journey From Frequentist to Bayesian Statistics](https://www.fharrell.com/post/journey/)
+3. [Frequentist vs. Bayesian approach in A/B testing](https://www.dynamicyield.com/lesson/bayesian-testing/)
+4. [Bayesian vs. Frequentist A/B Testing: What’s the Difference?](https://cxl.com/blog/bayesian-frequentist-ab-testing/)
+5. [Bayesian inference tutorial: a hello world example](https://datapythonista.me/blog/bayesian-inference-tutorial-a-hello-world-example.html)
