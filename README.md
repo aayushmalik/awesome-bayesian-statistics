@@ -75,6 +75,7 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 23. [Causal Bayesian Networks: A flexible tool to enable fairer machine learning](https://deepmind.com/blog/article/Causal_Bayesian_Networks)
 24. [A Comprehensive Introduction to Bayesian Deep Learning](https://jorisbaan.nl/2021/03/02/introduction-to-bayesian-deep-learning.html)
 25. [A Technical Explanation of Technical Explanation](https://www.yudkowsky.net/rational/technical)
+26. [An Intuitive Explanation of Bayes Theorem](https://www.yudkowsky.net/rational/bayes)
 
 ## Research Papers
 1. [Primer on the Use of Bayesian Methods in Health Economics](https://www.sciencedirect.com/science/article/pii/B9780123756787007082)
