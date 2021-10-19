@@ -48,6 +48,7 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 6. [Statistical Thinking by Frank Harrell](https://www.fharrell.com/)
 7. [Bayesian Statistics and Functional Programming](https://jonnylaw.rocks/)
 8. [Learning Bayesian Statistics](https://www.learnbayesstats.com/)
+9. [While my MCMC gently samples](https://twiecki.io)
 
 ## Web Articles
 1. [Absolutely the simplest introduction to Bayesian statistics](http://statisticalbiophysicsblog.org/?p=233)
@@ -76,6 +77,7 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 24. [A Comprehensive Introduction to Bayesian Deep Learning](https://jorisbaan.nl/2021/03/02/introduction-to-bayesian-deep-learning.html)
 25. [A Technical Explanation of Technical Explanation](https://www.yudkowsky.net/rational/technical)
 26. [An Intuitive Explanation of Bayes Theorem](https://www.yudkowsky.net/rational/bayes)
+27. [MCMC sampling for dummies](https://twiecki.io/blog/2015/11/10/mcmc-sampling/)
 
 ## Research Papers
 1. [Primer on the Use of Bayesian Methods in Health Economics](https://www.sciencedirect.com/science/article/pii/B9780123756787007082)
