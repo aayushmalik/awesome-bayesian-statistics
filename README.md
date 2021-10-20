@@ -97,6 +97,11 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 15. [Bayesian regression tree models for causal inference: regularization, confounding, and heterogeneous effects](https://arxiv.org/pdf/1706.09523.pdf)
 16. [State-of-the-BART: Simple Bayesian Tree Algorithms for Prediction and Causal Inference](https://eoghanoneillcom.files.wordpress.com/2020/09/bayesian_tree_paper_eon_18_07_20-1.pdf)
 
+## Probability Distributions
+1. [Gallery of Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm)
+2. [Probability Distribution Applications and Relationships](http://www.csun.edu/~bjc20362/probabilty%20distribution_362.pdf)
+3. [Probability Distribution: List of Statistical Distributions](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/probability-distribution/)
+
 ## People
 1. [Andreas Krause, Professor of Computer Science, ETH Zurich](https://scholar.google.com/citations?hl=en&user=eDHv58AAAAAJ)
 2. [Svetha Venkatesh, Professor of Computer Science, Deakin University](https://scholar.google.com/citations?hl=en&user=AEkRUQcAAAAJ)
