@@ -92,7 +92,7 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 10. [Uncertain Neighbors: Bayesian Propensity Score Matching For Causal Inference](https://arxiv.org/abs/2105.02362)
 11. [Bayesian Matching for Causal Inference](https://economics.yale.edu/sites/default/files/files/Workshops-Seminars/Econometrics/chib-100407.pdf)
 12. [A Bayesian Approach for Estimating Causal Effects from Observational Data](https://researchportal.helsinki.fi/en/publications/a-bayesian-approach-for-estimating-causal-effects-from-observatio)
-13. [Bayesian Nonpar esian Nonparametric Methods F ametric Methods For Causal Inf or Causal Inference And ence And Prediction](https://repository.upenn.edu/cgi/viewcontent.cgi?article=4779&context=edissertations)
+13. [Bayesian Nonparametric Methods For Causal Inference And Prediction](https://repository.upenn.edu/cgi/viewcontent.cgi?article=4779&context=edissertations)
 14. [Is Microfinance Truly Useless for Poverty Reduction and Women Empowerment? A Bayesian Spatial-Propensity Score Matching Evaluation in Bolivia](https://www.semanticscholar.org/paper/Is-Microfinance-Truly-Useless-for-Poverty-Reduction-Gonzales-Aranda/20fb2e5660560351a011753a6cff01ee9cde3775)
 15. [Bayesian regression tree models for causal inference: regularization, confounding, and heterogeneous effects](https://arxiv.org/pdf/1706.09523.pdf)
 16. [State-of-the-BART: Simple Bayesian Tree Algorithms for Prediction and Causal Inference](https://eoghanoneillcom.files.wordpress.com/2020/09/bayesian_tree_paper_eon_18_07_20-1.pdf)
