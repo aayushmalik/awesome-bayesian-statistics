@@ -21,8 +21,8 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 14. [Bayesian Econometrics, Gary Koop (2003)](https://www.wiley.com/en-us/Bayesian+Econometrics-p-9780470845677)
 15. [Regression Modelling with Spatial and Spatial-Temporal Data: A Bayesian Approach, Robert P. Haining (2019)](https://www.routledge.com/Modelling-Spatial-and-Spatial-Temporal-Data-A-Bayesian-Approach/Haining-Li/p/book/9781482237429)
 16. [Bayesian Reasoning and Machine Learning, David Barber (2012)](https://www.amazon.in/Bayesian-Reasoning-Machine-Learning-Barber/dp/0521518148)
-17. [An Introduction to Bayesian Inference, Methods and Computation (2021)](https://link.springer.com/book/10.1007/978-3-030-82808-0)
-18. [Bayesian Inference for Stochastic Processes (2017)](https://www.routledge.com/Bayesian-Inference-for-Stochastic-Processes/Broemeling/p/book/9780367572433)
+17. [An Introduction to Bayesian Inference, Methods and Computation, Nick Heard (2021)](https://link.springer.com/book/10.1007/978-3-030-82808-0)
+18. [Bayesian Inference for Stochastic Processes, Lyle D. Broemeling (2017)](https://www.routledge.com/Bayesian-Inference-for-Stochastic-Processes/Broemeling/p/book/9780367572433)
 
 ## Courses
 1. [Bayesian Statistics: From Concept to Data Analysis, University of California Santa Cruz](https://www.coursera.org/learn/bayesian-statistics)
